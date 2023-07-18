@@ -10,9 +10,11 @@
 
 
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/giantisopod)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Click](https://t.me/giantisopod)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChiBovino13)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChiBovino13)](https://github.com/ryo-ma/github-profile-trophy) \
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChiBovino13)](https://git.io/streak-stats) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiBovino13=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChiBovino13/ChiBovino13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
