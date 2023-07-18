@@ -10,7 +10,7 @@
 
 # Contacts :
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/giantisopod)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giantisopod)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiBovino13)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiBovino13)](https://github.com/anuraghazra/github-readme-stats) \
