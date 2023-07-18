@@ -11,7 +11,6 @@
 # ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤 :
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/giantisopod)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaminari06@gmail.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiBovino13)](https://github.com/anuraghazra/github-readme-stats)
